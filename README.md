@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/03535eec-958b-4f86-a208-3f83dd1aa666" width="100"/>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=grafscorp&style=flat-square&color=blue" alt=""/><br/>
+  <img src="https://komarev.com/ghpvc/?username=grafscorp&style=flat-square&color=blue" alt=""/>
   <summary><h1>Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></summary>
   <img src ="https://github.com/user-attachments/assets/387082ea-227e-4675-a6f4-f4a839728621", width="400px"/>
