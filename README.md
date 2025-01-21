@@ -10,9 +10,10 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
   </div>
-  
-  <summary><h1>Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></summary>
+  <label>Hi there</label>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </div>
+<div align="center">
   <img src ="https://github.com/user-attachments/assets/387082ea-227e-4675-a6f4-f4a839728621", width="400px"/>
 </div>
 
